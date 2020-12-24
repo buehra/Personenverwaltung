@@ -1,2 +1,2 @@
 # Personenverwaltung
-Project in C
+Personal Management Software written in C.
